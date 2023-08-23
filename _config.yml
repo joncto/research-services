@@ -1,8 +1,13 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Workshop on the Norwegian Web Archive
+description: Documentation with how-to guide and explanation of tools and services
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://joncto.github.io/research-services/
+
+logo: "/assets/images/just-the-docs.png"
+favicon_ico: "/assets/images/favicon.ico"
+search_enabled: true
+
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
