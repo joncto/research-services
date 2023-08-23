@@ -4,12 +4,15 @@ theme: just-the-docs
 
 url: https://joncto.github.io/research-services/
 
+markdown: kramdown
+
 logo: "/assets/images/just-the-docs.png"
 favicon_ico: "/assets/images/favicon.ico"
 search_enabled: true
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "NLNWA on GitHub":
+    - "//github.com/nlnwa"
 
 search:
   # Split pages into sections that can be searched individually
