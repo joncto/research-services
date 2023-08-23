@@ -1,11 +1,17 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-# Welcome to Workshop on the Norwegian Web Archive
+# Workshop on the Norwegian Web Archive
 
-We are happy to have you onboard this workshop, exploring how data from the Norwegian Web Archive (NWA) can be utilised by researchers in the Humanities!
+We are happy to welcome you to this workshop, exploring data from the Norwegian Web Archive (NWA)!
+
+Date and time: 11 Sept, 11:30 - 12 Sept, 12:30
+Location: D-lab 
+
+The tools and services are currently in development and we are eager to collaborate with researchers, learning more about how our data and services can be utilised by researchers in the Humanities and Social Sciences.
 
 These pages contains documentation with how-to-guides and explanation of different tools and services currently in development.
 
