@@ -3,8 +3,12 @@ title: Home
 layout: home
 ---
 
-These pages contain user documentation for research services in development at the National Library of Norway's Web Archive (NWA).
-The documentation involves how-to-guides and explanation of the different services, enabling researchers to understand and make use of the different tools and services.
+# Welcome to Workshop on the Norwegian Web Archive
+
+We are happy to have you onboard this workshop, exploring how data from the Norwegian Web Archive (NWA) can be utilised by researchers in the Humanities!
+
+These pages contains documentation with how-to-guides and explanation of different tools and services currently in development.
+
 
 
 
