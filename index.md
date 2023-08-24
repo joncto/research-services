@@ -6,26 +6,25 @@ nav_order: 1
 
 # Workshop on the Norwegian Web Archive
 
-We are happy to welcome you to this workshop, exploring data from the Norwegian Web Archive (NWA)!
+We are happy to welcome you to this workshop, exploring data from the Norwegian Web Archive!
 
-Date and time: 11 Sept, 11:30 - 12 Sept, 12:30
-Location: D-lab 
+Duration: 11 Sept, 11:30 - 12 Sept, 12:30
+Location: Humanities Library, Digital Lab 1st floor in Håkon Sheteligsplass 7, Bergen
+Requirements: Bring your own computer + ensure you have internet access via eduroam
 
-The tools and services are currently in development and we are eager to collaborate with researchers, learning more about how our data and services can be utilised by researchers in the Humanities and Social Sciences.
+The tools and services that will be offered are currently in development. We are eager to gain experience on how these can be utilised by researchers in the Humanities and Social Sciences, and to learn more about the problems researchers are trying to answer.
 
 These pages contains documentation with how-to-guides and explanation of different tools and services currently in development.
 
+## Table of content
+1. [Access the Services](./access-vdi.md)
+2. [SolrWayback](./solrwayback.md)
+3. [Map Services](./maps.md)
+4. [Jupyter notebook](./notebook.md)
+5. [Gephi](./gephi.md)
+6. [Data sets and other resources](./datasets.md)
 
 
-
-
-
-The pages are built with [Just the Docs](https://just-the-docs.github.io/just-the-docs/), a responsive [Jekyll](https://jekyllrb.com)-theme for documentation with built-in search.
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-
-[Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
