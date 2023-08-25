@@ -1,14 +1,14 @@
 ---
-title: SolrWayback
+title: Export Search Results
 layout: home
-nav_order: 3
-has_children: true
-permalink: /docs/solrwayback
+parent: SolrWayback
+nav_order: 5
 ---
 
-# SolrWayback
+# Export Search Results
 
 ## Table of content
+{:toc}
 1. [Open SolrWayback](#open-solrwayback)
 2. [Search synthax](#search-synthax)
 3. [Toolbox](#toolbox)
