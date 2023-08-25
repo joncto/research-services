@@ -21,6 +21,8 @@ Before you get access to the service, you need to agree to the [Terms and Condit
 3. Enter the name of Connection Server (provided by the instructor). Press Connect
 4. In the window that appears, enter username and password (provided by the instructor).
 
+**WARNING:** If you are asked to set a new password, remember to write this down!
+
 The virtual environment will now launch. This may take some time.
 
 When you see the MS Windows desktop, you will be ready to use our services.
@@ -31,6 +33,8 @@ When you see the MS Windows desktop, you will be ready to use our services.
 2. Click "VMware Horizon HTML Access"
 3. Enter username and password (provided by the instructor). Click "Login".
 4. Double-click the computer icon.
+
+**WARNING:** If you are asked to set a new password, remember to write this down!
 
 The virtual environment will now launch. This may take some time.
 

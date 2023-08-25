@@ -8,11 +8,11 @@ nav_order: 5
 # Export Search Results
 
 ## Table of content
-{:toc}
 1. [Open SolrWayback](#open-solrwayback)
 2. [Search synthax](#search-synthax)
 3. [Toolbox](#toolbox)
-
+4. [GPS Image Search](#gps-image-search)
+5. [Export](#export)
 
 
 ## Open SolrWayback
