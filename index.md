@@ -8,16 +8,17 @@ nav_order: 1
 
 We are happy to welcome you to this workshop, exploring data from the Norwegian Web Archive!
 
-Duration: 11 Sept, 11:30 - 12 Sept, 12:30
-Location: Humanities Library, Digital Lab 1st floor in Håkon Sheteligsplass 7, Bergen
-Requirements: Bring your own computer + ensure you have internet access via eduroam
+**Duration**: 11 Sept, 11:30 - 12 Sept, 12:30
+**Location**: The Humanities Library, Digital Lab 1st floor in Håkon Sheteligsplass 7, Bergen.
+**Requirements**: Bring your own computer + Make sure you have internet access via eduroam
 
-The tools and services that will be offered are currently in development. We are eager to gain experience on how these can be utilised by researchers in the Humanities and Social Sciences, and to learn more about the problems researchers are trying to answer.
+The tools and services that will be offered are currently being tested and developed. That means we cannot guarantee for how long it will live lifespan. However, we are eager to gain experience on how they can be utilised by researchers in the Humanities and Social Sciences, and to learn more about how we can support researchers in solving their problems.
 
 These pages contains documentation with how-to-guides and explanation of different tools and services currently in development.
 
 ## Table of content
-1. [Access the Services](./access-vdi.md)
+The user manual is divided into following sections
+1. [Access the Service](./access-vdi.md)
 2. [SolrWayback](./solrwayback.md)
 3. [Map Services](./maps.md)
 4. [Jupyter notebook](./notebook.md)
