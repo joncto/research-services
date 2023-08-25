@@ -1,5 +1,5 @@
 ---
-title: Search synthax
+title: Toolbox
 layout: home
 parent: SolrWayback
 nav_order: 3

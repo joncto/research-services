@@ -23,6 +23,7 @@ SolrWayback have advanced features for search. Understanding its synthax will al
 The boolean operators **AND**, **OR** and **NOT** are supported. They MUST be entered in uppercase, if not they will be considered as regular search words. 
 
 [//]: # (HTML table with examples and description of operators)
+
 <table border='1'>
 <tr>
 <td><b>Operator</b></td>
