@@ -9,7 +9,6 @@ permalink: /docs/solrwayback/search/fields
 # Field desriptions
 Below you will find explanations of the most crucial fields. From the search result, you can also click "See all fields" for a resource to inspect other possible fields.
 
-|||||
 |--- |--- |-- |--- |
 |**Field**|**Multivalued**|**Type**|**Description**|
 |author|yes|string|From Author meta-data (typical for word, html, pdf, image etc.)|
