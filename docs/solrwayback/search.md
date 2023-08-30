@@ -4,7 +4,6 @@ layout: home
 parent: SolrWayback
 nav_order: 2
 has_children: true
-permalink: /docs/solrwayback
 ---
 
 # Search

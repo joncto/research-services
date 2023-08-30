@@ -1,28 +1,29 @@
 ---
-title: Features
+title: Features & Tools
 layout: home
 parent: SolrWayback
 nav_order: 3
-permalink: /docs/solrwayback
+permalink: /docs/solrwayback/features
+
 ---
 
-# Features
+# Features & Tools
+SolrWayback offer a range of features and tools that researchers can use to understand and analyse the data of the Norwegian Web Archive. 
+
 
 ## Table of content
-1. [Search modes](#visualise-search-results)
-2. [Visualise search results](#visualise-search-results)
-2. [Toolbox](./toolbox.md)
-5. [GPS Image Search](./gpsimage.md)
-6. [Export](./export.md)
-[Wordcloud](#wordcloud)
+1. [Visualise search results](#visualise-search-results)
+2. [Wordcloud](./wordcloud.md)
 3. [Link graph](#link-graph)
-4. [Domain stats](#domain-stats)
-5. [Link graph Gephi Export](#link-graph-gephi-export)
-6. [Ngram](#ngram)
+4. [Link graph Gephi Export](#link-graph-gephi-export)
+5. [Ngram](#ngram)
+6. [Domain stats](#domain-stats)
+7. [Export](./export.md)
 
 
 ## Visualise search results
-Lorem ipsum ...
+
+
 
 ## Wordcloud
 Wordcloud allow you to visualise the most common words on a specific domain. The bigger the word, the more frequent it is.
@@ -48,6 +49,7 @@ You can zoom in or out by scrolling up/down, or use pinching movements on your t
 
 **Highlighting**
 You focus on a specific part of the network by clicking a node. This will highlight the other domains directly connected with this one, and suppress the rest of the network.
+
 
 ## Domain stats
 The domain stats let you inspect what has been indexed from a specific domain

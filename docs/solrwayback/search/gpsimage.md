@@ -19,7 +19,7 @@ The result view is limited to 500 results. To reduce the waiting time before res
 
 
 ## Define Geographical Scope
-The easiest way to define the scope of a geographical image search is to zoom in/out and click on the location you want to search for.
+The easiest way to define the scope of a geo-based image search is to zoom in/out and click on the location you want to search for.
 
 You can also enter geo-coordinates for the location's latitude and longitude.
 
