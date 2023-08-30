@@ -1,9 +1,9 @@
 ---
-title: Search synthax
+title: Search modes
 layout: home
 parent: Search
 nav_order: 1
-permalink: /docs/solrwayback/search
+permalink: /docs/solrwayback/search/search-modes
 ---
 
 # Search modes
@@ -21,7 +21,7 @@ SolrWayback have some different modes for search:
 
 ![Image of search field in SolrWayback](../../images/search-interface.png)
 
-This is the default mode. For more information about to use it, see [Search synthax](./search-synthax.md) and [Field descriptions](./fields.md).
+This is the default mode. For more information about to use it, see [Search synthax](./search-synthax.md) and [Field descriptions](./fields).
 
 ## Grouped search
 This mode will group the results by URL. If several hits have the same URL (different versions of a document), only the most recent version will be presented in your result.

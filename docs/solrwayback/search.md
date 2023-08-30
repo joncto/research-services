@@ -4,6 +4,7 @@ layout: home
 parent: SolrWayback
 nav_order: 2
 has_children: true
+permalink: /docs/solrwayback/search
 ---
 
 # Search
@@ -11,10 +12,10 @@ has_children: true
 SolrWayback provides advanced and powerful features to search and examine the Norwegian Web Archive.
 
 This chapter is divided into three subchapters 
-1. [Search modes](./search/search-modes.md)
-2. [Search synthax](./search/search-synthax.md)
-3. [Faceted search](./search/search-facets.md)
-4. [Field descriptions](./search/fields.md)
+1. [Search modes](./search/search-modes)
+2. [Search synthax](./search/search-synthax)
+3. [Faceted search](./search/facets)
+4. [Field descriptions](./search/fields)
 
 **Search modes** explain the different modes for search.
 

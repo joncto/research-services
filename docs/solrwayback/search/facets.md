@@ -3,7 +3,7 @@ title: Facets
 layout: home
 parent: Search
 nav_order: 3
-permalink: /docs/solrwayback/search
+permalink: /docs/solrwayback/search/facets
 ---
 
 # Facets

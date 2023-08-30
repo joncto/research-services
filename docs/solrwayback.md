@@ -18,9 +18,9 @@ SolrWayback is a service offering advanced exploration of the Norwegian Web Arch
 ## Chapters
 The user manual for SolrWayback are organised into three chapters:
 
-1. [Get started](./solrwayback/get-started.md)
-2. [Search](./solrwayback/search.md)
-3. [Features & Tools](./solrwayback/features.md)
+1. [Get started](./solrwayback/get-started)
+2. [Search](./solrwayback/search)
+3. [Features & Tools](./solrwayback/features)
 
 
 ## Credits

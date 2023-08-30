@@ -3,7 +3,7 @@ title: Search synthax
 layout: home
 parent: Search
 nav_order: 2
-permalink: /docs/solrwayback/search
+permalink: /docs/solrwayback/search/search-synthax
 ---
 
 # Search synthax

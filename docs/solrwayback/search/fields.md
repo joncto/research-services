@@ -3,7 +3,7 @@ title: Field descriptions
 layout: home
 parent: Search
 nav_order: 4
-permalink: /docs/solrwayback/search
+permalink: /docs/solrwayback/search/fields
 ---
 
 # Field desriptions

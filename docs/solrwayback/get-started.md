@@ -3,6 +3,7 @@ title: Get started
 layout: home
 parent: SolrWayback
 nav_order: 1
+permalink: /docs/solrwayback/get-started
 ---
 
 # Get started
