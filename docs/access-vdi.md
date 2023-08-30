@@ -6,13 +6,9 @@ nav_order: 2
 
 # Access the Service
 
-The service is currently offered through a virtual environment. The machine you are interacting with is placed in the National Library's infrastructure, while the screen of this machine is exposed to your computer.
+The service is currently offered through a virtual environment. You are interacting with a machine, located in the National Library's infrastructure, and having its screen exposed to your computer.
 
 We recommend that you install the [VMWare Horizon Client](https://www.vmware.com/go/viewclients) an run it as an application on your computer, but you can also use the service in your browser.
-
-## Agree to Terms and Conditions
-
-Before you get access to the service, you need to agree to the [Terms and Conditions](./terms-conditions.md)
 
 ## 1. Login using VMWARE Horizon Client
 

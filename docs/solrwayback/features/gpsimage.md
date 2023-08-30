@@ -15,6 +15,7 @@ The result view is limited to 500 results. To reduce the waiting time before res
 1. [Define geographical scope](#define-geographical-scope)
 2. [Include query](#include-query)
 3. [Interact with results](#interact-with-results)
+4. [List results without fetching images](#list-results-without-fetching-images)
 
 
 ## Define Geographical Scope
@@ -35,8 +36,14 @@ search will be limited to images from the Sámi collection. (See [LINK](.) for a
 ## Interact with results
 When the results are ready, thumbnails of the images will be displayed to the right.
 
-{: .tip}
-### TIP
+
+## List results without fetching images
+If you want to get an overview of the result, without having the images presented, you can do a service call with url parameters.
+
+This is an example of a service call below, 
+
+`http://localhost:8080/solrwayback/services/frontend/images/search/location/?query=*:*&latitude=60.3876&longitude=5.3182&d=50`
+
 If you click on one of the links below the image, you will make a search and lose your image results. To explore the results without loosing it, right-click and choose "Open in new tab".
 
 To view a larger version, simply click on the image you want to have a look at.

@@ -3,28 +3,51 @@ title: SolrWayback
 layout: home
 nav_order: 3
 has_children: true
-permalink: /docs/solrwayback
 ---
 
 # SolrWayback
 
-SolrWayback is a web interface that allows advanced search in the Norwegian Web Archive. In addition to full-text search, you can make queries for a number of fields, and refine your search using boolean operators `AND`, `OR` and `NOT`.
+SolrWayback is a service that offers advanced search in the Norwegian Web Archive.
+
+The main features are:
+- Full-text search
+- Metadata search
+- Image search
+- Features for insight and analysis
+- Export of search results for further examination
+
 
 ## Chapters
-The user manual are divided into the following chapters:
+The user manual are organised in three chapters:
 
-1. [Open SolrWayback](./solrwayback/solrwayback-1open.md)
-2. [Search synthax](./solrwayback/solrwayback-2search.md)
-3. [Toolbox](./solrwayback/solrwayback-3toolbox.md)
-4. [GPS Image Search](./solrwayback/solrwayback-4gpsimage.md)
-5. [Export](./solrwayback/solrwayback-5export.md)
+1. [Get started](./solrwayback/get-started.md)
+2. [Search](./solrwayback/search.mdsearch.md)
+3. [Features & Tools](./solrwayback/features.md)
+
 
 ## Credits
 SolrWayback is a bundle of different technologies, developed and maintained by the Royal Danish Library.[^1]
 
+
 ## Version
-NWA's current installation of SolrWayback is version 4.4.2
+Current installation of SolrWayback is version 4.4.2
+
+
+## Scope of data
+For the workshop, we have indexed selected collections, harvested after 2019. The data is about 11TB, which is about 40% of the data between 2019-2022, and 0,5% of all data recorded since 2000.
+
+The collections are:
+
+|||||
+|--- |--- |-- |--- |
+|**Collection**|**Period**|**Description**|**Number of objects**|**Data size**|
+|`noall`|2019-22|Domain crawls of .no|no.obj.|7.5TB|
+|`samisk`|2020-22|Sámi websites|no.obj.|68GB|
+|`streetart2023`|2023|Streetart|no.obj.|75GB|
+|`eventUkraina2022`|2022-23|Russia's invasion of Ukraine|no.obj.|343GB|
+|`valg2001`|2001|Political parties from the 2001 Parliamentary Election|no.obj.|1.6GB|
+|`nettaviser`|2020-21|News websites|no.obj.|2.3TB|
 
 ----
 
-[^1]: [The bundle is made available as open source through GitHub](https://github.com/netarchivesuite/solrwayback/).
+[^1]: SolrWayback is open source and available through [GitHub](https://github.com/netarchivesuite/solrwayback/).
