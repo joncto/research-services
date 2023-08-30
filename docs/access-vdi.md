@@ -1,7 +1,6 @@
 ---
 title: Access the Service
 layout: home
-parent: SolrWayback
 nav_order: 2
 permalink: /docs/access-vdi
 
