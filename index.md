@@ -1,8 +1,10 @@
 ---
 title: Home
 layout: home
-nav_order: 1
+nav order: 1
 ---
+
+![Painting in style of Munch of Media scholars with computers. Generated with MidJourney.](./docs/images/MidJourney_painting_in_style_of_Munch_of_Media_scholars_with_computers.png)
 
 # Workshop on the Norwegian Web Archive
 
