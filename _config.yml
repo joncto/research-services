@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://joncto.github.io/research-services/
 
 markdown: kramdown
-
+logo: "/assets/images/nb_logo_desktop_red.svg"
 favicon_ico: "/assets/images/favicon.ico"
 search_enabled: true
 
