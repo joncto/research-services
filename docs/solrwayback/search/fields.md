@@ -2,6 +2,7 @@
 title: Field descriptions
 layout: home
 parent: Search
+grand_parent: Solrwayback
 nav_order: 4
 permalink: /docs/solrwayback/search/fields
 ---

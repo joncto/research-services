@@ -2,6 +2,7 @@
 title: Facets
 layout: home
 parent: Search
+grand_parent: Solrwayback
 nav_order: 3
 permalink: /docs/solrwayback/search/facets
 ---

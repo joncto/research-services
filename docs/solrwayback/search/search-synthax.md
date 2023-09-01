@@ -2,6 +2,7 @@
 title: Search synthax
 layout: home
 parent: Search
+grand_parent: Solrwayback
 nav_order: 2
 permalink: /docs/solrwayback/search/search-synthax
 ---
