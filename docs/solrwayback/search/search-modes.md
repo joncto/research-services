@@ -2,7 +2,7 @@
 title: Search modes
 layout: home
 parent: Search
-grand_parent: Solrwayback
+grand_parent: SolrWayback
 nav_order: 1
 permalink: /docs/solrwayback/search/search-modes
 ---
