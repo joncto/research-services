@@ -27,7 +27,7 @@ This is the default mode. For more information about to use it, see [Search synt
 ## Grouped search
 This mode will group the results by URL. If several hits have the same URL (different versions of a document), only the most recent version will be presented in your result.
 
-![image of activated check-box for "Grouped search"](../../images/visualise-results.png)
+![image of activated check-box for "Grouped search"](../../images/grouped-search.png)
 
 To activate this mode, check the "Grouped search" box below the search bar.
 
