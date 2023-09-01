@@ -8,7 +8,8 @@ permalink: /docs/solrwayback/features
 ---
 
 # Features & Tools
-SolrWayback offer a range of features and tools that researchers can use to understand and analyse the data of the Norwegian Web Archive. 
+SolrWayback offer a range of features and tools that researchers can use to understand and analyse the data of the Norwegian Web Archive.
+{: .fs-6 .fw-300 }
 
 
 ## Table of content
@@ -30,13 +31,18 @@ The bar chart is based on statistics from your search results, and visualise the
 
 
 ## Wordcloud
+*WARNING: WordCloud generator demands a lot of memory, and it will take a lot of time to generate for large domains. Therefore, we encourage you to use it only for small domains.*
+
 Wordcloud allow you to visualise the most common words on a specific domain. The bigger the word, the more frequent it is.
 
-It operates with a Norwegian stop word list and remove common words like "å", "og", "en/ei/et", etc.
+It operates with a Norwegian stop word list which remove common words like "å", "og", "en/ei/et", etc.
 
 (If the returned image is black, it means SolrWayback could not find any text for that domain.)
 
 ## Link graph
+
+![Link graph](../../images/linkgraph_jilltxt-net.png)
+
 Link graph is a tool to visualise relations between domains.
 
 Enter the domain you want to examine. Choose whether you want to see ingoing links (other domains that links to this domain) or outgoing links (domains linked to from this domain). You can also adjust the time scope, visualising links in a certain period.
@@ -49,11 +55,13 @@ To adjust the number of nodes in the network, use the slider to increase or decr
 You can interact with the network graph in several ways.
 
 **Zoom in / out**
-You can zoom in or out by scrolling up/down, or use pinching movements on your touchpad
+You can either:
+- scroll up/down,
+- move two fingers up/down on your touchpad
+- pinch/spread two fingers on your touchpad
 
 **Highlighting**
-You focus on a specific part of the network by clicking a node. This will highlight the other domains directly connected with this one, and suppress the rest of the network.
-
+To focus on a specific part of the network, you can click a node. This will highlight the other domains directly connected with this one, and suppress the rest of the network.
 
 ## Domain stats
 The domain stats let you inspect what has been indexed from a specific domain

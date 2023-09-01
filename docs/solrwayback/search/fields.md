@@ -8,7 +8,8 @@ permalink: /docs/solrwayback/search/fields
 ---
 
 # Field desriptions
-Below you will find explanations of the most crucial fields. From the search result, you can also click "See all fields" for a resource to inspect other possible fields.
+Below you will find explanations of the most crucial fields. From the search result, you can also click "See all fields" to inspect other possible fields.
+{: .fs-6 .fw-300 }
 
 |--- |--- |-- |--- |
 |**Field**|**Multivalued**|**Type**|**Description**|

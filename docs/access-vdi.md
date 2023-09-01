@@ -11,10 +11,11 @@ The service is offered in a virtual environment. You will interact with a machin
 
 We recommend to install the [VMWare Horizon Client](https://www.vmware.com/go/viewclients) and run it as an application on your computer. Alternatively, you can access the service in your browser.
 
+
 ## 1. Login using VMWARE Horizon Client
 1. Open **VMWARE Horizon Client** on your computer
 2. Click the `+` icon to setup a new server
-3. Enter the name of Connection Server. Press Connect
+3. Enter the name of Connection Server, provided by the instructor. Press Connect
 4. In the window that appears, enter username and password.
 
 **IMPORTANT:** If asked to set a new password, remember to write this down!

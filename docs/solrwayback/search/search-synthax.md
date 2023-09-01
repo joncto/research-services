@@ -9,7 +9,8 @@ permalink: /docs/solrwayback/search/search-synthax
 
 # Search synthax
 
-SolrWayback have advanced features for search. Understanding its synthax will allow you to produce refined and well-scoped search results. These can then be used to define a corpus of content for further examination.
+SolrWayback have advanced features for search. Understanding its synthax will allow you to produce well-scoped search results.
+{: .fs-6 .fw-300 }
 
 ## Table of content
 1. [Boolean operators](#boolean-operators)
