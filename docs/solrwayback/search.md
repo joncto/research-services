@@ -36,4 +36,4 @@ The search section is divided into three subchapters
 
 **Field descriptions** provides an overview of the most crucial fields in the index
 
-----
+---
