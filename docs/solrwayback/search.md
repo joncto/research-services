@@ -21,19 +21,12 @@ SolrWayback provide advanced and powerful features to search and examine the Nor
 
 ---
 
-The search section is divided into three subchapters 
-1. [Search modes](./search/search-modes)
-2. [Search synthax](./search/search-synthax)
-3. [Faceted search](./search/facets)
-4. [Field descriptions](./search/fields)
+**[Search modes](./search/search-modes.md)** explain the different modes for search.
 
+**[Search synthax](./search/search-synthax)** show the different options for doing advanced searches.
 
-**Search modes** explain the different modes for search.
+**[Faceted search](./search/facets)** explain how you can apply facets to your search.
 
-**Search synthax** show the different options for doing advanced searches.
-
-**Faceted search** explain how you can apply facets to your search.
-
-**Field descriptions** provides an overview of the most crucial fields in the index
+**[Field descriptions](./search/fields)** provides an overview of the most crucial fields in the index
 
 ---
