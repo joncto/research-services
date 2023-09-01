@@ -14,11 +14,12 @@ SolrWayback provide advanced and powerful features to search and examine the Nor
 {: .fs-6 .fw-300 }
 
 ## Table of contents
-{: .no_toc .text-delta }
+{: .no_toc }
 
 1. TOC
 {:toc}
 
+---
 
 The search section is divided into three subchapters 
 1. [Search modes](./search/search-modes)
