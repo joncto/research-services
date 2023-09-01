@@ -46,7 +46,7 @@ These pages contains documentation of the services, with how-to-guides and expla
 - **Gephi** - *visualise networks*
 - **Datasets** - *additional datasets and resources to support analysis*
 
-## Structure of documentation
+## Table of Content
 The user manual is divided into following sections
 1. [Access the Service](./docs/access-vdi)
 2. [SolrWayback](./docs/solrwayback)

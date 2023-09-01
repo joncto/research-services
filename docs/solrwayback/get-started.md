@@ -9,9 +9,8 @@ permalink: /docs/solrwayback/get-started
 # Get started
 
 ## Open SolrWayback
-Navigate to the desktop of your VDI. Double-click the browser-icon named SolrWayback.
-
-A browser will open the url of the search service.
+Navigate to your virtual desktop.
+Double-click the **browser-icon SolrWayback**.
 
 ## Login to SolrWayback
 Enter the username and password provided by your instructor.

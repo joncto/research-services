@@ -1,7 +1,7 @@
 ---
 title: Toolbox
 layout: home
-parent: SolrWayback
+parent: Features
 nav_order: 3
 ---
 

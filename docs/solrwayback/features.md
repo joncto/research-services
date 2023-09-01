@@ -22,7 +22,11 @@ SolrWayback offer a range of features and tools that researchers can use to unde
 
 
 ## Visualise search results
+To open the visualisation tool, click the bar chart-icon next to "RESULTS".
 
+The bar chart is based on statistics from your search results, and visualise the size of domains. Size is the number of archived resources, combined with ingoing and outgoing links to/from that domain.
+
+![Visualise Search Results](../images/visualise-results.png)
 
 
 ## Wordcloud

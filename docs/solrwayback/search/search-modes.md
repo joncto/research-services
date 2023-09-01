@@ -6,6 +6,9 @@ nav_order: 1
 permalink: /docs/solrwayback/search/search-modes
 ---
 
+
+![Image of search field in SolrWayback](../../images/search-interface.png)
+
 # Search modes
 
 SolrWayback have some different modes for search:
@@ -18,9 +21,6 @@ SolrWayback have some different modes for search:
 - [Search with uploaded file](#search-with-uploaded-file)
 
 ## Text search
-
-![Image of search field in SolrWayback](../../images/search-interface.png)
-
 This is the default mode. For more information about to use it, see [Search synthax](./search-synthax.md) and [Field descriptions](./fields).
 
 ## Grouped search
