@@ -3,35 +3,46 @@ title: Export Search Results
 layout: home
 parent: SolrWayback
 nav_order: 5
+permalink: /docs/SolrWayback/export
 ---
 
 # Export Search Results
+SolrWayback have features for exporting your search results in different formats. This allow you to analyse or process the data further with a variety of software and techniques.
+{: .fs-6 .fw-300 }
 
 ## Table of content
-1. [Open SolrWayback](#open-solrwayback)
-2. [Search synthax](#search-synthax)
-3. [Toolbox](#toolbox)
-4. [GPS Image Search](#gps-image-search)
-5. [Export](#export)
+1. [CSV/JSONL export](#search-synthax)
+2. [WARC export](#warc-export)
+
+## Exporting data
+To export a search result, move your mouse pointer over "See available export options". A dropdown list with different alternatives will appear.
+
+### CSV/JSONL export
+Exporting your search result as CSV or JSONL basically means to produce a derivative, based on your results.
+
+This is valuable for a lot of reasons:
+- You can use it to define a corpus
+- You can extract relevant metadata for analysis
+- You can extract the full-text from documents, created by Apache Tika
+
+The data can be computed with our [NWA notebooks](../notebooks). These are written to take JSONL as input, and we recommend to set this as the output format.
+
+If you are more familiar with sheets, you can also export CSV and open them in LibreOffice Calc (similar to Excel).
+
+#### Rename the output
+The output will have a generic name, `solrwayback_{time-of-export}`. For your own sake, we recommend to rename the output to something more meaningful, such as the query phrase that was used to produce the results.
+
+E.g. `JonasGahrStore_domain-regjeringen-no_content-type-norm-html.jsonl`.
 
 
-## Open SolrWayback
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## WARC export
+The WARC (Web ARChive) format is an international standard for storing data archived from the web.
 
-## Search synthax
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+There are several reasons to export search results in the WARC format:
+- Extract the archived objects (e.g. html or png files) and process these computationally. (see [Notebook 4_warc2html](../notebooks#4-warc2html))
+- You want to inspect the technical aspects of the archival records, beyond the indexed data and metadata (e.g. with [Warchaeology](../warchaeology) in the command-line)
 
-## Toolbox
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## GPS Image Search
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Export
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
+*NOTICE: During the workshop, we recommend NOT to download `.GZ` (compressed), as this will make file extraction much slower. `Expanded` is only relevant for highly technical users who is curious to see the complete dialogue between harvester and host, from the first request to the last response. Expanded further requires inspection with the command-line tool "Warchaeology".*
 
 
 

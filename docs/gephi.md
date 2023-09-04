@@ -2,6 +2,7 @@
 title: Gephi
 layout: home
 nav_order: 5
+permalink: /docs/gephi
 ---
 
 *This section demonstrates how you can import data from SolrWayback to Gephi and visualise the data. However, NWA do not provide any support for this software. If you want to learn more about the many possibilities for network analysis in Gephi, please visit [Learn how to use Gephi](https://gephi.org/users/).*
