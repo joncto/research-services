@@ -20,14 +20,15 @@ SolrWayback's features include:
 
 ## Table of content
 1. [Get started](./solrwayback/get-started)
-2. [Search](./solrwayback/search)
-3. [Features & Tools](./solrwayback/features)
+2. [Search](./search)
+    a. [Search modes](./search/search-modes)
+    b. [Search synthax](./search/search-modes)
+    c. [Field descriptions](./search/fields)
+3. [Features & Tools](./features)
 4. [Export search results](./export)
-
 
 ## Credits
 SolrWayback is a bundle of different technologies, developed and maintained by the Royal Danish Library.[^1]
-
 
 ## Version
 Current installation of SolrWayback is version 4.4.2
