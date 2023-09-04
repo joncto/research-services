@@ -25,8 +25,7 @@ SolrWayback have advanced features for search. Understanding its synthax will al
 ## Boolean operators
 The boolean operators **AND**, **OR** and **NOT** are supported. They MUST be entered in uppercase, if not they will be considered as regular search words. 
 
-|||||
-|--- |--- |-- |--- |
+|--- |--- |--- |
 |**Operator**|**Example**|**Description**|
 |AND|Støre AND Ukraina|Both terms must match.  Same as: Støre Ukraina AND is the default operator between terms if not specified|
 |OR|Støre OR Ukraina|Any of the terms can match|

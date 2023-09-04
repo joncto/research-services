@@ -21,9 +21,9 @@ SolrWayback's features include:
 ## Table of content
 1. [Get started](./solrwayback/get-started)
 2. [Search](./search)
-    a. [Search modes](./search/search-modes)
-    b. [Search synthax](./search/search-modes)
-    c. [Field descriptions](./search/fields)
+    - [Search modes](./search/search-modes)
+    - [Search synthax](./search/search-modes)
+    - [Field descriptions](./search/fields)
 3. [Features & Tools](./features)
 4. [Export search results](./export)
 

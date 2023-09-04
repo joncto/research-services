@@ -28,17 +28,19 @@ To open the visualisation tool, click on the bar chart-icon next to "RESULTS". !
 The visualisation is based on statistics from your search results, and visualise the size of each domain. Size means the number of archived resources, combined with ingoing and outgoing links to/from that domain.
 
 ![Visualise Search Results](../images/visualise-results.png)
-*An example of the search result visualisation.*
+
+*An example of visualisation of search results for `content_language:et`*
 
 
 ## Wordcloud
-*WARNING: WordCloud generator demands a lot of memory, and it will take long time to generate for large domains. At the moment, we encourage you to only use it for small domains.*
+*WARNING: WordCloud generator demands a lot of memory. For large domains, it will take long time to generate the wordcloud. At the moment, we encourage you to only use it for small domains.*
 
 Wordcloud allow you to visualise the most common words on a specific domain. The bigger the word, the more frequent it is.
 
 It operates with a Norwegian stop word list which remove common words like "å", "og", "en/ei/et", etc. The words displayed will be the most frequent word on that domain, with more frequent words displayed in a bigger font.
 
 (If the returned image is black, it means SolrWayback could not find any text for that domain.)
+
 
 ## Link graph
 
