@@ -7,7 +7,8 @@ permalink: /docs/access-vdi
 ---
 
 # Access the Service
-The service is offered in a virtual environment. You will interact with a machine located in the National Library's infrastructure, and have its screen exposed to your computer. 
+The service is offered in a virtual environment. You will interact with a machine located in the National Library's infrastructure, and have its screen exposed to your computer.
+{: .fs-6 .fw-300 }
 
 We recommend to install the [VMWare Horizon Client](https://www.vmware.com/go/viewclients) and run it as an application on your computer. Alternatively, you can access the service in your browser.
 

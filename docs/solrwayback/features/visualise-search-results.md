@@ -3,7 +3,7 @@ title: Visualise search results
 layout: home
 parent: Features
 nav_order: 1
-permalink: /docs/solrwayback/features
+permalink: /docs/solrwayback/features/visualise
 ---
 
 # Visualise search results

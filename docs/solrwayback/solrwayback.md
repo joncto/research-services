@@ -8,19 +8,21 @@ permalink: /docs/solrwayback
 
 # SolrWayback
 
-SolrWayback is a service offering advanced exploration of the Norwegian Web Archive, including:
+SolrWayback is a service offering advanced exploration of the Norwegian Web Archive.
+{: .fs-6 .fw-300 }
+
+SolrWayback's features include:
 - Full-text search
 - Metadata search
 - Image search
 - Features for insight and analysis
 - Export of search results
 
-## Chapters
-The user manual for SolrWayback are organised into three chapters:
-
+## Table of content
 1. [Get started](./solrwayback/get-started)
 2. [Search](./solrwayback/search)
 3. [Features & Tools](./solrwayback/features)
+4. [Export search results](./export)
 
 
 ## Credits
