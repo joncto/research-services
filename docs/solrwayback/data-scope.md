@@ -23,6 +23,8 @@ The follow collections have been indexed:
 |`valg2001`|2001|Political parties from the 2001 Parliamentary Election|87 782|1.6GB|
 
 
+TIP: To see all resources in a collection, you can search in SolrWayback for `collection:{collection_name}`. For example, `collection:noall` will return all resources in the `noall` collection.
+
 ----
 
 [^1]: SolrWayback is open source and available through [GitHub](https://github.com/netarchivesuite/solrwayback/).
