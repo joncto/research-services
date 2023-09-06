@@ -22,7 +22,7 @@ SolrWayback's features include:
 1. [Get started](./solrwayback/get-started)
 2. [Search](./solrwayback/search)
     - [Search modes](./solrwayback/search/search-modes)
-    - [Search synthax](./solrwayback/search/search-modes)
+    - [Search synthax](./solrwayback/search/search-synthax)
     - [Field descriptions](./solrwayback/search/fields)
 3. [Features & Tools](./solrwayback/features)
 4. [Export search results](./solrwayback/export)
