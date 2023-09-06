@@ -1,5 +1,5 @@
 ---
-title: Get started
+title: Access the Service
 layout: home
 nav_order: 2
 permalink: /docs/access-vdi

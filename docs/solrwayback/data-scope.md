@@ -1,8 +1,8 @@
 ---
 title: Data & Scope
 layout: home
-nav_order: 2
 parent: SolrWayback
+nav_order: 2
 permalink: /docs/solrwayback/data-scope
 ---
 
