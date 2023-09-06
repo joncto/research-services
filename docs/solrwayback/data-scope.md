@@ -1,5 +1,5 @@
 ---
-title: Data & Scope
+title: Data and Scope
 layout: home
 parent: SolrWayback
 nav_order: 2

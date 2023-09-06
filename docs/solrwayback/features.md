@@ -1,5 +1,5 @@
 ---
-title: Features & Tools
+title: Features
 layout: home
 parent: SolrWayback
 nav_order: 4
