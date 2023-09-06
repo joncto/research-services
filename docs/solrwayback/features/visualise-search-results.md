@@ -1,7 +1,7 @@
 ---
 title: Visualise search results
 layout: home
-parent: Features
+parent: Features & Tools
 grandparent: SolrWayback
 nav_order: 1
 permalink: /docs/solrwayback/features/visualise
