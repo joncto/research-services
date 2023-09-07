@@ -31,7 +31,12 @@ In the "Overview" tab in the top right corner, check the number of #nodes.
 If there more than 10.000 nodes, consider to make a new export from SolrWayback with a more fine-tuned query.
 Alternatively, open the "Filter" tab (right), choose "Topology", and drag "Giant component" down to filters. Click "▸ Filter".
 
-![](./images/gephi-context-nodes.png) ![](./images/gephi-filters-giant.png) ![](./images/gephi-run-filter.png)
+![](./images/gephi-context-nodes.png)
+*The number of nodes are shown in the top right corner.*
+![](./images/gephi-filters-giant.png)
+*The "Giant component" filter can be dragged down to the filters.*
+![](./images/gephi-run-filter.png)
+*Click "▸ Filter" to apply the filter.*
 
 ## Select layout
 In the "Layout" tab on the left, choose "Yifan Hu" as your layout.
