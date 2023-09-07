@@ -6,7 +6,6 @@ permalink: /docs/about
 ---
 
 ![Digital_art_with_hundreds_of_computers_popping_up_in_a_Norwegian_landscape](./images/Digital_art_with_hundreds_of_computers_popping_up_in_a_N_c436b68a-f2b3-417a-a70b-d21f510e6c6f.png)
-*Created with MidJourney.*[^1]
 
 # About the Norwegian Web Archive
 The Norwegian Web Archive (NWA) harvest evidence of Norwegian culture and social life on the Web. The aim is to preserve and provide access to web data for research purposes, in accordance with the Legat Deposit Act.
@@ -33,4 +32,4 @@ Researchers can apply for access with a relevant research purpose.
 
 ----
 
-[^1]: In MidJourney, the following prompt was entered: `Digital art with hundreds of computers popping up in a Norwegian landscape --ar 2:1.``
+*The image above is created with MidJourney, entering the following prompt: `Digital art with hundreds of computers popping up in a Norwegian landscape --ar 2:1.`*

@@ -11,7 +11,7 @@ permalink: /docs/solrwayback
 SolrWayback is a service offering advanced tools to explore the Norwegian Web Archive.
 {: .fs-6 .fw-300 }
 
-## Table of content
+#### Table of content
 1. [Get started](./solrwayback/get-started)
 2. [Search](./solrwayback/search)
     - [Search modes](./solrwayback/search/search-modes)

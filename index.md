@@ -66,6 +66,4 @@ The workshop is co-organised by the National Library of Norway, [Digital Lab](ht
 
 ----
 
-The picture above is generated with MidJourney, using the following line:
-
-`/imagine prompt: Painting in style of Munch of Media scholars with computers, surrounded by a matrix of code and --ar 2:1 --v 5 --chaos 30`
+*The image above is created with MidJourney, entering the following prompt: `/imagine prompt: Painting in style of Munch of Media scholars with computers, surrounded by a matrix of code and --ar 2:1 --v 5 --chaos 30`*
