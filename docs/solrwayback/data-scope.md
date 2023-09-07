@@ -8,11 +8,11 @@ permalink: /docs/solrwayback/data-scope
 
 # Data & Scope
 
-The data offered for this workshop is only a small amount of NWA's total collection.
+For this workshop, we offer a certain set of data from the NWA collection.
 {: .fs-6 .fw-300 }
 
 ## Indexed collections
-Currently, we have indexed three selected collections to SolrWayback. The raw data is ≈9TB, which is 0.45% of all the data recorded since 2000.
+Currently, we have indexed three selected collections to SolrWayback. The indexed data is ≈9TB, which corresponds to 0.45% of the total collection.[^1]
 
 The follow collections have been indexed:
 
@@ -27,4 +27,4 @@ TIP: To see all resources in a collection, you can search in SolrWayback for `co
 
 ----
 
-[^1]: SolrWayback is open source and available through [GitHub](https://github.com/netarchivesuite/solrwayback/).
+[^1]: In total, the NWA collection is about 1.8PB.

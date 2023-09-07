@@ -11,7 +11,7 @@ permalink: /docs/solrwayback/search/search-modes
 SolrWayback provide several different modes for search. This page give you an overview of the different modes, and how to use them.
 {: .fs-6 .fw-300 }
 
-# Table of content
+#### Table of content
 1. [Text search](#text-search) (default)
 2. [Grouped search](#grouped-search)
 3. [Image search](#image-search)
@@ -32,23 +32,17 @@ For more information about to use text search, see [Search synthax](./search-syn
 ## Grouped search
 Grouped search mode will group the results by URL. When there are several matches with the same URL, only the most recent version will be presented in your list of result. This is particullary useful if you are not interested in different versions of the same document.
 
-![image of activated check-box for "Grouped search"](../../images/grouped-search.png)
-
-*To activate this mode, check the "Grouped search" box below the search bar.*
+To activate this mode, check the "Grouped search" box below the search bar.
 
 ## Image search
 Image search allow you to search for images in the context of text. Based on your query, SolrWayback will return up images that appear close to your search phrase in HTML pages.
 
-![image of activated check-box for "Image search"](../../images/image-search.png)
-
-*To activate this mode, check the "Image search" box below the search bar.*
+To activate this mode, check the "Image search" box below the search bar.
 
 ## URL search
 The URL Search mode is typically useful when you are searching for resources with a specific URL. It will encode the domain name and normalise the URL, searching for different representations of the URL.
 
-![image of activated check-box for "Image search"](../../images/url-search.png)
-
-*To activate this mode, check the "URL search" box below the search bar.*
+To activate this mode, check the "URL search" box below the search bar.
 
 ## GPS Image Search
 GPS Image Search allow you to search for images, based on a geographical scope. It will search through images with exif metadata about the location of capture. (Not all images contain exif geodata.)
@@ -89,5 +83,6 @@ To adapt your query, simply change the parameter values for query (`field:value`
 ## Search with uploaded file
 It is possible to search with an uploaded file.
 
-Since you currently are not allowed to transfer any files to the service, you are in practice limited to use this to search for files you find and download.
+However, since you currently not allowed to transfer files in to the service, the actual value of this mode is limited.
+
 ----

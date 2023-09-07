@@ -1,4 +1,4 @@
----
+x---
 title: Features
 layout: home
 parent: SolrWayback
@@ -23,17 +23,17 @@ SolrWayback offer a range of features and tools that researchers can use to unde
 
 
 ## Visualise search results
-To open the visualisation tool, click on the bar chart-icon next to "RESULTS". ![bar-chart-icon](../../images/bar-chart-icon.png)
+To open the visualisation tool, click on the bar chart-icon next to "RESULTS".
 
 The visualisation is based on statistics from your search results, and visualise the size of each domain. Size means the number of archived resources, combined with ingoing and outgoing links to/from that domain.
 
-![Visualise Search Results](../images/visualise-results.png)
+![Visualise Search Results](../images/visualise-results2.png)
 
-*An example of visualisation of search results for `content_language:et`*
+*An example of visualisation of search results for `metoo`*
 
 
 ## Wordcloud
-*WARNING: WordCloud generator demands a lot of memory. For large domains, it will take long time to generate the wordcloud. At the moment, we encourage you to only use it for small domains.*
+*WARNING: We encourage you to only use Wordcloud for small domains. The Wordcloud generator demands a lot of memory and for large domains, it will take long time to generate.*
 
 Wordcloud allow you to visualise the most common words on a specific domain. The bigger the word, the more frequent it is.
 
@@ -44,7 +44,7 @@ It operates with a Norwegian stop word list which remove common words like "å",
 
 ## Link graph
 
-![Link graph](../../images/linkgraph_jilltxt-net.png)
+![Link graph](../images/linkgraph_jilltxt-net3.png)
 
 Link graph is a tool to visualise the link relations between domains, and how different domains in the archive are clustered in spheres.
 
@@ -69,7 +69,7 @@ To focus on a specific part of the network, you can click a node. This will high
 ## Link graph Gephi Export
 If you want to do more advanced analysis of document relations, SolrWayback offer the possibility to export data to Gephi. You need to define a query, based on what you want to analyse in Gephi.
 
-To learn more about importing data from SolrWayback to Gephi, see the documentation page for [Gephi](../../../docs/gephi)
+To learn more about importing data from SolrWayback to Gephi, see the documentation page for [Gephi](../../docs/gephi)
 
 ### Query for link export
 Below are examples of queries used for certain types of analyses.
