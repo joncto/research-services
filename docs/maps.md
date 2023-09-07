@@ -4,9 +4,11 @@ layout: home
 nav_order: 6
 ---
 
+![](./images/maps-norwebnews.png)
+
 # Map Services
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+{: .fs-6 .fw-300 }
 
 ## Table of content
 1. [Norwegian Web News](#norwegian-web-news)
