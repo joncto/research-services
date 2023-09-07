@@ -21,7 +21,6 @@ SolrWayback is a service offering advanced tools to explore the Norwegian Web Ar
 3. [Features & Tools](./solrwayback/features)
 4. [Export search results](./solrwayback/export)
 
-
 ## Main features
 Some of SolrWayback's main features are:
 - Full-text search

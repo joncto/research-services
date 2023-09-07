@@ -67,11 +67,14 @@ You can either:
 To focus on a specific part of the network, you can click a node. This will highlight the other domains directly connected with this one, and suppress the rest of the network.
 
 ## Link graph Gephi Export
+
+![Link graph Gephi Export](../images/feature_link-graph-export.png)
+
 If you want to do more advanced analysis of document relations, SolrWayback offer the possibility to export data to Gephi. You need to define a query, based on what you want to analyse in Gephi.
 
 To learn more about importing data from SolrWayback to Gephi, see the documentation page for [Gephi](../../docs/gephi)
 
-### Query for link export
+### Queries for link export
 Below are examples of queries used for certain types of analyses.
 
 |Example|Query|
@@ -94,6 +97,9 @@ The domain stats offer visualisation of some basic statistics from a specific do
 *To get an overview of the data, we rather recommend you to define a [corpus of interest](../export#export-search-results), and analyse it with the Notebook for counting domains, content-type and crawl year.*
 
 ## Ngram
+
+![](../images/ngram_election-2001.png)
+
 The Ngram viewer plot the frequency of selected words or phrases. This is useful if you want to map development of a phrase over time.
 
 The frequency % is calculated by:
@@ -103,20 +109,6 @@ the number of html documents with match for word/phrase per {time-period} / tota
 Since only a few number of collections are indexed, there will be holes and biases that are not always easy to make sense of. E.g., most of the indexed documents are from the NWA domain crawl, which is often harvested in late autumn. Before the rest of our collection is indexed, a word like "blogg" is therefore likely to occur far more in October-December, than in February.
 
 One way to compensate for this is to choose "Year" as the time-period.
-
-### Compare different words
-
-After you 
-
-
-
-
-
-
-
-
-
-
 
 ----
 

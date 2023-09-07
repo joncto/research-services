@@ -16,7 +16,7 @@ SolrWayback provide several different modes for search. This page give you an ov
 2. [Grouped search](#grouped-search)
 3. [Image search](#image-search)
 4. [Url search](#url-search)
-5. [GPS Image Search](./gpsimage.md)
+5. [GPS Image Search](#gps-image-search)
 6. [Search with uploaded file](#search-with-uploaded-file)
 
 
