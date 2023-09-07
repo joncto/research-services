@@ -6,8 +6,9 @@ has_children: true
 permalink: /docs/solrwayback
 ---
 
-# SolrWayback
+![](./images/solrwayback-search.png)
 
+# SolrWayback
 SolrWayback is a service offering advanced tools to explore the Norwegian Web Archive.
 {: .fs-6 .fw-300 }
 

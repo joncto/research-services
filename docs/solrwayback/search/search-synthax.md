@@ -7,12 +7,11 @@ nav_order: 2
 permalink: /docs/solrwayback/search/search-synthax
 ---
 
-# Search synthax
+![](../../images/advanced-search.png)
 
+# Search synthax
 SolrWayback have advanced features for search. Understanding its synthax will allow you to produce well-scoped search results.
 {: .fs-6 .fw-300 }
-
-![](../../images/advanced-search.png)
 
 ## Table of content
 1. [Boolean operators](#boolean-operators)

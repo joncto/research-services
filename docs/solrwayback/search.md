@@ -7,6 +7,8 @@ has_children: true
 permalink: /docs/solrwayback/search
 ---
 
+![](../images/solrwayback-search.png)
+
 # Search
 SolrWayback provide advanced and powerful features to search and examine the Norwegian Web Archive.
 {: .fs-6 .fw-300 }

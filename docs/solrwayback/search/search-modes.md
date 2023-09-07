@@ -11,8 +11,6 @@ permalink: /docs/solrwayback/search/search-modes
 SolrWayback provide several different modes for search. This page give you an overview of the different modes, and how to use them.
 {: .fs-6 .fw-300 }
 
-![Image of search field in SolrWayback](../../images/search-interface.png)
-
 #### Table of content
 1. [Text search](#text-search) (default)
 2. [Grouped search](#grouped-search)
