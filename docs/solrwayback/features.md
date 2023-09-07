@@ -1,4 +1,4 @@
-x---
+---
 title: Features
 layout: home
 parent: SolrWayback

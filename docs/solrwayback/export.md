@@ -39,10 +39,10 @@ E.g. `JonasGahrStore_domain-regjeringen-no_content-type-norm-html.jsonl`.
 The WARC (Web ARChive) format is an international standard for storing data archived from the web.
 
 There are several reasons to export search results in the WARC format:
-- Extract the archived objects (e.g. html or png files) and process these computationally. (see [Notebook 4_warc2html](../notebooks#4-warc2html))
-- You want to inspect the technical aspects of the archival records, beyond the indexed data and metadata (e.g. with [Warchaeology](../warchaeology) in the command-line)
+- Extract the archived objects (e.g. html or png files) and process these computationally. (see [Notebook 4_warc2file](../notebooks#4-warc2file))
+- You want to inspect technical aspects of the archival records, beyond the data and metadata that are indexed in SolrWayback (e.g. with [Warchaeology](../warchaeology) in the command-line)
 
-*NOTICE: During the workshop, we recommend NOT to download `.GZ` (compressed), as this will make file extraction much slower. `Expanded` is only relevant for highly technical users who is curious to see the complete dialogue between harvester and host, from the first request to the last response. Expanded further requires inspection with the command-line tool "Warchaeology".*
+*NOTICE: During the workshop, we recommend NOT to download `Expanded`. This is only relevant for highly technical users who is curious to see the complete dialogue between harvester and host during harvest, from the first request to the last response.*
 
 
 

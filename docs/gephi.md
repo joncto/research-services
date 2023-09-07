@@ -5,54 +5,80 @@ nav_order: 5
 permalink: /docs/gephi
 ---
 
-*This section demonstrates how you can import data from SolrWayback to Gephi and visualise the data. However, NWA do not provide any support for this software. If you want to learn more about the many possibilities for network analysis in Gephi, please visit [Learn how to use Gephi](https://gephi.org/users/).*
+*This section demonstrates how you can import data from SolrWayback to Gephi and visualise the data. If you want to learn more about the many possibilities for network analysis in Gephi, please visit [Learn how to use Gephi](https://gephi.org/users/).*
 
 # Gephi
+Gephi allow you to visualise networks, such as relations between domains.
+{: .fs-6 .fw-300 }
 
-Gephi is an open-source software for network analysis and visualisation. It is used in a number of projects, both inside and outside of adademia, e.g. in studies of Twitter network traffic during the terror attacks in Norway, 22 July 2011.[^1]
+![](./images/gephi.png)
 
-Before you start, you will need to export data from SolrWayback. See [Link graph Gephi export](./solrwayback/solrwayback-5export.md#export)
+Gephi is an open-source software for network exploration and visualisation. It has been used in a number of projects, both inside and outside of adademia, e.g. in studies of Twitter network traffic during the terror attacks in Norway, 22 July 2011.[^1]
 
-## Chapters
-This section is divided into the following subchapters:
-
-
+Before you start, you will need to export data from SolrWayback. To learn more about exporting data from SolWayback to Gephi, see [Link graph Gephi export](./solrwayback/features#link-graph-gephi-export)
 
 ## Open Gephi
-Go to the desktop and double-click the Gephi icon.
+From the virtual desktop, double-click the Gephi icon.
 
 ## Import data from SolrWayback
 Go to "File" -> "Open".
 
-Select a .csv file and click "Next" -> "Finished" -> "Ok"
+Select the .csv file you exported from SolrWayback, and click "Next" -> "Finished" -> "Ok"
 
 ## Overview tab
-See #nodes in top right corner.
+In the "Overview" tab in the top right corner, check the number of #nodes.
 
-**Warning:** If more than 10.000 nodes, consider: filter tab (right), open topology, drag "giant component" down to filters. Click "filter".
+If there more than 10.000 nodes, consider to make a new export from SolrWayback with a more fine-tuned query.
+Alternatively, open the "Filter" tab (right), choose "Topology", and drag "Giant component" down to filters. Click "▸ Filter".
+
+![](./images/gephi-context-nodes.png) ![](./images/gephi-filters-giant.png) ![](./images/gephi-run-filter.png)
 
 ## Select layout
-Select "Yifan Hu" as your layout. Click "Run" and wait.
+In the "Layout" tab on the left, choose "Yifan Hu" as your layout.
 
-Repeat and clicking "Run" until you are happy with how the graph looks.
-(For graphs with 1 million nodes, this can hours. So you are strongly encouraged to use filtering to scope down the amount of nodes!)
+Then click "▸ Run" and wait.
+
+![](./images/gephi-layout-yifan-hu.png) 
+
+Repeat clicking "Run" until you are happy with how the graph looks.
+(For graphs with 1 million nodes, this can hours. So you are strongly encouraged to scope down the amount of nodes, during this workshop!)
 
 ## Statistics
-"Statistics" > "Network diameter" > "Modularity"
+In the "Statistics" tab, find "Network diameter" and press "Run".
 
-## Modularity class
-Nodes, color palette, partition, modularity class
+Then, find "Modularity" and press "Run".
 
-## subtitle
-label size (tT), ranking, "Betweeness centrality", apply (change min/max, rerun)
+![](./images/gephi-stats.png)
+
+## Define Appearance
+In the "Appearance" tab, click "Nodes".
+
+Click the color palette icon (🎨). Choose "Partition", and then as "Attribute" you choose "Modularity class".
+
+Click "▸ Apply"
+
+![](./images/gephi-apperance.png) 
+
+## Adjust text
+Still in the "Appearance" tab, click label size (tT).
+
+Then, press ranking, an as attribute you choose "Betweeness centrality".
+![](./images/gephi-appearance-betweenness.png)
 
 ## Preview
-Preview > Refresh
+To preview the network graph, go to "Preview" mode.
+
+Down to the left, press "🔄 Refresh".
+
+![](./images/gephi-preview-refresh.png)
 
 ## Export graph
-Export SVG/PDF/PNG
+To export the graph, click "File > Export > SVG/PDF/PNG file".
 
-[//]: # (## Further utilisation: If you export as an SVG, it is possible to use the [GraphPresenter]() [^2] to convert SVGs into an interactive, zoomable image in a browser. At the moment, this is not supported in NWA's virtual environment.)
+Choose the desired format, and click "Export".
+![](./images/gephi-export-svg.png)
+
+[//]: # (## Further utilisation: If you export as an SVG, it is possible to use The Danish Royal Library's [GraphPresenter]() [^2] to convert SVGs into an interactive, zoomable image that can be presented in a browser. At the moment, this is not supported in NWA's virtual environment.)
 
 
 

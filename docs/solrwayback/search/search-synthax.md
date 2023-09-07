@@ -12,6 +12,8 @@ permalink: /docs/solrwayback/search/search-synthax
 SolrWayback have advanced features for search. Understanding its synthax will allow you to produce well-scoped search results.
 {: .fs-6 .fw-300 }
 
+![](../../images/advanced-search.png)
+
 ## Table of content
 1. [Boolean operators](#boolean-operators)
 2. [Parentheses for mixing operators](#parentheses-for-mixing-operators)
