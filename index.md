@@ -8,7 +8,6 @@ nav_order: 1
 
 
 # Workshop on the Norwegian Web Archive
-
 Welcome to this workshop, exploring data from the Norwegian Web Archive!
 
 **When?**: 11 Sept, 11:30 - 12 Sept, 12:30<br>
@@ -20,14 +19,14 @@ Welcome to this workshop, exploring data from the Norwegian Web Archive!
 Our service for research is currently in development. And you will be the very first to test it! We are eager to gain experience about its value for academic research, and to learn more about how we can support scholars in solving their problems.
 
 <details>
-    <summary>Click to view programme</summary>
+    <summary>CLICK to view tentative programme</summary>
     <ul>
         <b>MONDAY 11 SEPT</b>
-        <li>11:30 - 12:30: Lecture: "Opportunities and Challenges for Research in the Norwegian Web Archive"</li>
-        <li>12:30 - 13:00: Lunch</li>
-        <li>13:00 - 13:30: Introduction to the services</li>
-        <li>13:30 - 15:15: Hands-on exploration</li>
-        <li>15:15 - 15:45: Wrap-up and discussion</li>
+        <li>11:30 - 12:30: Talk: "Opportunities and Challenges for Research in the Norwegian Web Archive"</li>
+        <li>12:30 - 13:15: Lunch</li>
+        <li>13:15 - 13:45: Introduction to the services</li>
+        <li>13:45 - 15:45: Hands-on exploration</li>
+        <li>18:30 -      : Dinner at [Kulturhuset](https://www.google.com/maps/search/?api=1&query=Vaskerelven+8+Bergen)</li>
         <br>
         <b>TUESDAY 12 SEPT</b>
         <li>09:00 - 09:30: Introduction to NWA's Jupyter notebooks</li>
@@ -46,23 +45,12 @@ These pages contains documentation of the services, with how-to-guides and expla
 - **Gephi** - *visualise networks*
 - **Datasets** - *additional datasets and resources to support analysis*
 
-## Table of Content
-The user manual is divided into following sections
-1. [Access the Service](./docs/access-vdi)
-2. [SolrWayback](./docs/solrwayback)
-3. [Map Services](./docs/maps)
-4. [Gephi](./docs/gephi)
-5. [Jupyter notebook](./docs/notebook)
-6. [Data sets and other resources](./docs/datasets)
-
 ## Terms and Conditions
 Please read the [Terms and Conditions](./docs/terms-conditions.md) in advance.
 By using the services, you agree to comply with these terms and conditions.
 
 ## About
-
 The workshop is co-organised by the National Library of Norway, [Digital Lab](https://www.uib.no/en/digitallab) and [Centre for Digital Narrative](https://www.uib.no/cdn) at the University of Bergen.
-
 
 ----
 
