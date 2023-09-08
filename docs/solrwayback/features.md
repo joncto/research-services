@@ -33,7 +33,8 @@ The visualisation is based on statistics from your search results, and visualise
 
 
 ## Wordcloud
-*WARNING: We encourage you to only use Wordcloud for small domains. The Wordcloud generator demands a lot of memory and for large domains, it will take long time to generate.*
+{: .warning }
+> We encourage you to only use Wordcloud for small domains. The Wordcloud generator demands a lot of memory and for large domains, it will take long time to generate.
 
 Wordcloud allow you to visualise the most common words on a specific domain. The bigger the word, the more frequent it is.
 
